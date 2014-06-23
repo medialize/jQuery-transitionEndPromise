@@ -1,6 +1,6 @@
 {
   "name": "jQuery-transitionEndPromise",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "homepage": "https://github.com/medialize/jQuery-transitionEndPromise",
   "description": "Obtain a promise that's resolved upon the next CSS Transition / Animation",
   "main": "src/jquery.transitionEndPromise.js",

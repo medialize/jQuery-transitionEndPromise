@@ -1,3 +1,8 @@
+/*! 
+ * jQuery-transitionEndEvent v0.1.0
+ * @web: https://github.com/medialize/jQuery-transitionEndEvent/
+ * @author: Rodney Rehm - http://rodneyrehm.de/en/
+ */
 (function (root, factory) {
   'use strict';
   // https://github.com/umdjs/umd/blob/master/returnExports.js
@@ -33,6 +38,7 @@
     var _nameProperty = eventPropertyNames[key];
 
     $[_key] = {
+      version: '0.1.0',
       // DOM events to listen for
       eventNames: eventNames,
       // milliseconds to wait before automatically resolving the promise
