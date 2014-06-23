@@ -1,0 +1,24 @@
+{
+  "name": "jQuery-transitioEndPromise",
+  "version": "0.0.0",
+  "description": "Obtain a promise that's resolved upon the next CSS Transition / Animation",
+  "main": "src/jquery.transitionEndPromise.js",
+  "scripts": {
+    "test": "grunt test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/medialize/jQuery-transitionEndPromise.git"
+  },
+  "keywords": [
+    "jQuery",
+    "CSS-Animation",
+    "CSS-Transition"
+  ],
+  "author": "Rodney Rehm <rodney.rehm@medialize.de>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/medialize/jQuery-transitionEndPromise/issues"
+  },
+  "homepage": "https://github.com/medialize/jQuery-transitionEndPromise"
+}
