@@ -1,5 +1,5 @@
 {
-  "name": "jQuery-transitioEndPromise",
+  "name": "jquery-transitioendpromise",
   "version": "0.1.0",
   "description": "Obtain a promise that's resolved upon the next CSS Transition / Animation",
   "main": "src/jquery.transitionEndPromise.js",

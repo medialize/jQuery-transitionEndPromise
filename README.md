@@ -81,7 +81,7 @@ $element.addClass('something');
 bower install jQuery-transitionEndPromise
 
 # with npm #
-npm install jQuery-transitionEndPromise
+npm install jquery-transitionendpromise
 ```
 
 
