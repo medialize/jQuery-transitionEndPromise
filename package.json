@@ -3,6 +3,9 @@
   "version": "0.0.0",
   "description": "Obtain a promise that's resolved upon the next CSS Transition / Animation",
   "main": "src/jquery.transitionEndPromise.js",
+  "files": [
+    "src/*.js"
+  ],
   "scripts": {
     "test": "grunt test"
   },
@@ -15,10 +18,18 @@
     "CSS-Animation",
     "CSS-Transition"
   ],
-  "author": "Rodney Rehm <rodney.rehm@medialize.de>",
+  "author": {
+    "name": "Rodney Rehm",
+    "url": "http://rodneyrehm.de"
+  },
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/medialize/jQuery-transitionEndPromise/issues"
   },
-  "homepage": "https://github.com/medialize/jQuery-transitionEndPromise"
+  "homepage": "https://github.com/medialize/jQuery-transitionEndPromise",
+  "devDependencies": {
+    "jshint-stylish": "~0.1.5",
+    "grunt": "~0.4.2",
+    "grunt-contrib-jshint": "~0.8.0"
+  }
 }
